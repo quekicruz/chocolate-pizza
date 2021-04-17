@@ -1,0 +1,103 @@
+header {
+  width: 800px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+#logo {
+  display: flex;
+  margin: 20px 0;
+  color: gray;
+  font-size: 11px;
+  /* margin-left: 10px; */
+}
+
+#logo img {
+  padding-top: 37px;
+  width: 100px;
+  height: 100px;
+}
+
+#logo h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 35px;
+  margin-left: 5px;
+  padding-left: 12%;
+}
+
+#logo p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 11px;
+  margin-left: 10px;
+  color: gray;
+}
+
+#socialmedia li {
+
+  list-style: none;
+  display: inline;
+  flex-direction: row-reverse;
+}
+
+#chocolatepizza {
+  padding-left: 14%;
+  margin: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#recipe {
+  margin: auto;
+  padding-left: 13%;
+}
+
+
+#psection {
+margin:auto;
+max-width: 73%;
+text-indent: 2.0em;
+}
+
+#pizza {
+  display: flex;
+  margin: auto;
+}
+
+#chef img {
+  margin: auto;
+  padding-left: 70%;
+  padding-top: 30%;
+}
+
+#chef {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+}
+
+#chefp {
+  width: 49%;
+}
+
+
+h4 {
+  margin: auto;
+  padding-top: 5%;
+}
+
+ button {
+  background-color: rgb(173, 102, 35);
+  color: #ffff;
+  display: flex;
+  margin: auto;
+  float:right;
+
+}
+
+
+
+footer {
+  margin-left: 35%;
+}
